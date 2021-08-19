@@ -1,1 +1,1 @@
-# QA-Automation-Selenium-Locators-ID, Name, Link Text, Partial Link Test, Tag Name, Class, CSS Selector & XPATH
+# QA-Automation-Selenium-Locators-ID, Name, Link Text, Partial Link Text, Tag Name, Class Name, CSS Selector & XPATH
